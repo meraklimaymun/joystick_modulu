@@ -1,3 +1,9 @@
+//Önemli !!!
+// Arduino'nuzun bozulmaması için DC motorlarınızı
+// MUTLAKA motor sürücü ile kullanın. Bendeki motorun
+// çektiği güç çok düşük olduğu için sürücüsüz kullandım.
+// Meydana gelebilecek hasarlardan Meraklı Maymun sorumlu değildir...
+
 const int BUTON_PIN = 2;
 const int X_PIN = 0;
 const int Y_PIN = 1;
